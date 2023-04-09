@@ -16,7 +16,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-black?style=for-the-badge&logo=Confluence)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)
 ![TestIT](https://img.shields.io/badge/TestIT-black?style=for-the-badge&logo=TestIT)
-![TestMo](https://img.shields.io/badge/TestMo-black?style=for-the-badge&logo=TestMo)
+![TestMo](https://img.shields.io/badge/TestMo-black?style=for-the-badge&logo=testmo)
 ![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github)
 
 ## Languages 
