@@ -12,6 +12,11 @@
 ![MobaXterm](https://img.shields.io/badge/MobaXterm-black?style=for-the-badge&logo=mobaxterm)
 ![PuTTY](https://img.shields.io/badge/PuTTY-black?style=for-the-badge&logo=PuTTY)
 ![DevTools](https://img.shields.io/badge/DevTools-black?style=for-the-badge&logo=googlechrome)
+![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira)
+![Confluence](https://img.shields.io/badge/Confluence-black?style=for-the-badge&logo=Confluence)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)
+![TestIT](https://img.shields.io/badge/TestIT-black?style=for-the-badge&logo=TestIT)
+![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github)
 
 ## Languages 
 
