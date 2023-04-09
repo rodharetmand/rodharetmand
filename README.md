@@ -1,16 +1,12 @@
-### Hi there 👋
+### QA Engineer
 
-<!--
-**rodharetmand/rodharetmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgreSQL)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+![Command Prompt](https://img.shields.io/badge/Command%20Prompt-black?style=for-the-badge&logo=windowsterminal)
+![DevTools](https://img.shields.io/badge/DevTools-black?style=for-the-badge&logo=googlechrome)
