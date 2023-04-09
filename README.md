@@ -13,6 +13,14 @@
 ![PuTTY](https://img.shields.io/badge/PuTTY-black?style=for-the-badge&logo=PuTTY)
 ![DevTools](https://img.shields.io/badge/DevTools-black?style=for-the-badge&logo=googlechrome)
 
+### Languages 
+
+![English](https://img.shields.io/badge/English-black?style=for-the-badge)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-black?style=for-the-badge)
+![Hebrew](https://img.shields.io/badge/Hebrew-black?style=for-the-badge)
+![Russian](https://img.shields.io/badge/Russian-black?style=for-the-badge)
+![Armenian](https://img.shields.io/badge/Armenian-black?style=for-the-badge)
+
 ### Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sarkisyan-daniel/)
