@@ -27,7 +27,11 @@
 ### ![Russian](https://img.shields.io/badge/Russian-★★★★★-blue?style=flat)
 ### ![Armenian](https://img.shields.io/badge/Armenian-★☆☆☆☆-blue?style=flat)
 
+## CV
+
+
+
 ## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sarkisyan-daniel/)
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](daniel.sarkisyan.13@gmail.com)
+
