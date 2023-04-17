@@ -27,6 +27,9 @@
 ### ![Russian](https://img.shields.io/badge/Russian-★★★★★-blue?style=flat)
 ### ![Armenian](https://img.shields.io/badge/Armenian-★☆☆☆☆-blue?style=flat)
 
+## SQL queries collection
+LINK: [SQL queries collection](https://drive.google.com/file/d/1Y2dqmQuarJueoj3DkMTaaYT_W8y9FyY1/view?usp=sharing)
+
 ## CV
 
 
