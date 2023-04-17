@@ -31,6 +31,7 @@
 LINK: [SQL queries collection](https://drive.google.com/file/d/1Y2dqmQuarJueoj3DkMTaaYT_W8y9FyY1/view?usp=sharing)
 
 ## CV
+[CV D. Sarkisyan.pdf](https://github.com/rodharetmand/rodharetmand/files/11253627/CV.D.Sarkisyan.pdf)
 
 
 
