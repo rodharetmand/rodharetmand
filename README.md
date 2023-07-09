@@ -6,6 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgreSQL)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
+![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logo=XML)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 ![Command Prompt](https://img.shields.io/badge/Command%20Prompt-black?style=for-the-badge&logo=windowsterminal)
